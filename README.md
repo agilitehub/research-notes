@@ -4,5 +4,5 @@
 An explosion of R&amp;D findings, proof of concepts and dragon-slaying practices on various modern technologies, methodologies, stacks, platforms, etc.
 
 ## Table of Contents
-- [gRPC](#table-of-contents)
-    - [Methodologies & Buzz Words](/grpc/methodologies-buzz-words.md)
+- [gRPC](/research-notes/grpc/grpc.md)
+- [HTTP2](/research-notes/http2/http2.md)

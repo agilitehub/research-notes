@@ -1,4 +1,4 @@
-# Methodologies & Buzz Words
+# gRPC
 > Common Buzz Words, descriptions and methodologies of gRPC
 
 ## Table of Contents
