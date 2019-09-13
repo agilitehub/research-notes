@@ -5,4 +5,4 @@ An explosion of R&amp;D findings, proof of concepts and dragon-slaying practices
 
 ## Table of Contents
 - [gRPC](#table-of-contents)
-    - [Methodologies & Buzz Words](/research-notes/grpc/methodologies-buzz-words.md)
+    - [Methodologies & Buzz Words](/grpc/methodologies-buzz-words.md)
