@@ -4,10 +4,9 @@
 An explosion of R&amp;D findings, proof of concepts and dragon-slaying practices on various modern technologies, methodologies, stacks, platforms, etc.
 
 ## Table of Contents
-- [gRPC](/research-notes/grpc/grpc.md)
-- [HTTP2](/research-notes/http2/http2.md)
-- [Agilit-e Links](#agilit-e-links)
-- [Release History](#release-history)
+- [gRPC](/research-notes/grpc/README.md)
+- [HTTP2](/research-notes/http2/README.md)
+- [Amazon EKS (Elastic Kubernetes Service)](/research-notes/amazon-eks/README.md)
 
 ## Agilit-e Links
 
